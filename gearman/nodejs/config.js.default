@@ -1,0 +1,7 @@
+ exports.node_path='/usr/local/lib/node_modules/';
+ exports.db_host='localhost';
+ exports.db_host_rd='localhost';
+ exports.is_test=true;
+ exports.db_user='root';
+ exports.db_pwd='';
+ exports.gcm_key='';
